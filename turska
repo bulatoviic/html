@@ -1,0 +1,93 @@
+index.html - pocetna strana
+
+<html>
+
+   <head> 
+ <style>
+body {
+  background-image: url('https://images.unsplash.com/photo-1533035353720-f1c6a75cd8ab?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Z3JheSUyMGJhY2tncm91bmR8ZW58MHx8MHx8fDA%3D');
+}
+</style> 
+</head>
+<body>
+
+          <header>
+           <title>Pocetna strana</title>
+              <h1> Dobrodosli u Tursku!</h1>
+               <p> Posetite jednu od najlepsih zemalja na svetu.</p>
+           
+               <a href="gradovi.html"> Pogledajte najlepse gradove</a>
+               <a href="destinacije.html">Istrazite popularne destinacije
+               </a>
+ <p2> Istanbul je najveci grad u zemlji, dok je Ankara glavni grad. Priblizno 70 do 80 posto gradjana identifikuju se Turcima, dok su Kurdi najveca nacionalna manjina od 15 do 20 posto stanovnistva.</p2>
+ </header>
+</body>
+</html>
+
+gradovi.html 
+
+<html>
+<head>
+<style>
+body {
+  background-image: url('https://images.unsplash.com/photo-1533035353720-f1c6a75cd8ab?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Z3JheSUyMGJhY2tncm91bmR8ZW58MHx8MHx8fDA%3D');
+}
+</style> 
+</head>
+<body>
+     <header>      
+<font color="BLACK"> Turska - Najlepsi gradovi </font>
+
+<h1> Najlepsi gradovi u Turskoj</h1>
+
+<p> Ovde mozete pronaci najlepse slike gradova iz Turske</p>
+
+
+ <img src="https://d3mvlb3hz2g78.cloudfront.net/wp-content/uploads/2012/10/thumb_720_450_782.jpg" alt="HTML5 Icon" style="width:720px;height:450px;"> 
+  <img src="https://venuesworld.com/wp-content/uploads/2020/06/Istanbul_Galata-Tower.jpg" alt="HTML5 Icon" style="width:720px;height:450px;"> 
+<a href="index.html">Nazad na pocetnu stranu</a>
+<a href="destinacije.html">Istrazite popularne destinacije</a>
+
+    </header>
+    </body>
+
+</html>
+
+destinacije.html
+
+<html>
+<head>
+<style>
+body {
+  background-image: url('https://images.unsplash.com/photo-1533035353720-f1c6a75cd8ab?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Z3JheSUyMGJhY2tncm91bmR8ZW58MHx8MHx8fDA%3D');
+}
+</style> 
+</head>
+<body>
+     <header>      
+<font color="BLACK"> Turska - Destinacije </font>
+
+<h1> Popularne destinacije u Turskoj</h1>
+
+<p> Ovde mozete pronaci slike popularnih destinacija u Turskoj</p>
+
+
+  <img src="https://venuesworld.com/wp-content/uploads/2020/06/Istanbul_Galata-Tower.jpg" alt="HTML5 Icon" style="width:720px;height:450px;"> 
+ <p2> Antalija je najveći i najmnogoljudniji (milionski) turski grad smešten na mediteranskoj obali. Spada među top pet najposećenijih turskih gradova, poseduje  i međunarodni aerodrom.
+
+Antalija je letovalište za one koji vole kombinaciju tradicionalne mediteranske obale, bazena koji gledaju na more, odličnog noćnog života i šopinga. Stari deo grada je ispunjen kafićima, restoranima, klubovima dok se šoping centri sa bioskopima nalaze na periferiji Antalije.U gradi se održavaju filmski festivali tokom leta, a postoje i mesta u kojima možete uživati u koncertima klasične muzike, baleta i opere. </p2>
+ 
+ <img src="https://uraditozasebe.rs/wp-content/uploads/2023/05/Turska-1-1024x597.png" alt="HTML5 Icon" style="width:720px;height:450px;"> 
+ <p2> U okviru Starog grada je čuveni Muzej podvodne arheologije, koji sadrži veliku kolekciju artefakata sa potopljenih brodova i antičkih lokaliteta. Bodrum je takođe poznat po svojim živopisnim plažama, od kojih je najpopularnija Plavi zaliv (Plava laguna) u Oludenizu. Ova prelepa plaža okružena je zelenim brežuljcima i kristalno čistim morem i idealna je za sunčanje, plivanje i ronjenje.U blizini Bodruma nalaze se i neka od najboljih turističkih destinacija u Turskoj. Na primer, možete posetiti antički grad Efes s dobro očuvanim rimskim ruševinama ili se zaputiti na jednodnevni izlet do grčkog otoka Kos koji se nalazi nedaleko od obale.</p2>
+ 
+    
+ <img src="https://uraditozasebe.rs/wp-content/uploads/2023/05/Turska-3-1024x597.png" alt="HTML5 Icon" style="width:720px;height:450px;"> 
+ <p2> Jedna od glavnih atrakcija u Izmiru je trg Konak sa svojom kultnom kulom sa satom i dvoranom Konak, koja je nekada bila rezidencija sultana. Trg je živo mesto sa mnogo kafića, restorana i prodavnica i popularno je mesto za šetnju i uživanje u atmosferi. Kordon, šetalište duž obale Egejskog mora, takođe je popularno među posetiocima. Ovde možete uživati u planinarenju, vožnji bicikla, trčanju ili jednostavno opuštajući se na klupama i posmatrajući zalazak sunca.</p2>
+ 
+<a href="index.html">Nazad na pocetnu stranu</a>
+<a href="gradovi.html">Pogledajte najlepse gradove</a>
+
+    </header>
+    </body>
+
+</html>
